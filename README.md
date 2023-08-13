@@ -1,4 +1,4 @@
-# coursework
+# IT145-ProjectThree
 
 Code from and for the final project in SNHU's IT 145
 
